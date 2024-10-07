@@ -4,7 +4,7 @@ A massive list including a huge amount of products and services that are complet
 
 ⭐ [Star on GitHub](https://github.com/wdhdev/free-for-life)
 &bull;
-🤝 [Contribute](https://free.wdh.gg/#/contributing)
+🤝 [Contribute](https://free.hrsn.dev/#/contributing)
 
 # Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
@@ -60,7 +60,9 @@ A massive list including a huge amount of products and services that are complet
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
+| [JSONing](https://jsoning.com/api/) | Create a mock API from a JSON file for testing and prototyping. |
 | [Mockae](https://mockae.com/) | Fake REST API powered by Lua. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
@@ -160,7 +162,9 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
+| [freeCodeCamp](https://www.freecodecamp.org) | freeCodeCamp is a non-profit educational organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning software development accessible to anyone. |
 | [HackerRank](https://hackerrank.com) | HackerRank is a platform for improving programming skills, finding jobs, and connecting with tech companies. |
+| [PY4E - Python for Everybody](https://www.py4e.com) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. |
 
 <!-- DNS.md -->
 ## DNS
@@ -168,9 +172,12 @@ A massive list including a huge amount of products and services that are complet
 | Website | Type | Description |
 |:-:|:-:|-|
 | [1.1.1.1](https://1.1.1.1) | Resolver | A free public DNS resolver provided by Cloudflare with fast and secure DNS resolution. |
+| [1984 Hosting FreeDNS](https://1984.hosting/product/freedns) | Nameservers | 1984 is a green ethical hosting company in Iceland. Founded in 2006, 1984 has been dedicated to freedom of speech. You register a user on the 1984 home page and after that you can use FreeDNS for your domains. You will have full control over any domain you register to the FreeDNS service. It's all for free. |
 | [AdGuard DNS](https://adguard-dns.io) | Resolver | AdGuard DNS allows you to control web traffic on your devices by blocking ads, trackers, and malicious domains. |
+| [Afraid.org FreeDNS](https://freedns.afraid.org) | Nameservers | Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting. |
 | [Bunny DNS](https://bunny.net/dns) | Nameservers | Bunny DNS provides DNS hosting with 20 million free queries. |
 | [Cloudflare](https://www.cloudflare.com/dns) | Nameservers | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
+| [Control-D Free DNS](https://controld.com/free-dns) | Resolver | Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules. |
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns/) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
@@ -210,6 +217,7 @@ A massive list including a huge amount of products and services that are complet
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
+| [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
@@ -221,26 +229,24 @@ A massive list including a huge amount of products and services that are complet
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
+| [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
 
 <!-- Domains.md -->
 ## Domains
 
 | Website | Description | [PSL](https://github.com/publicsuffix/list) Status |
 |:-:|-|:-:|
-| [cluster.ws & wip.la](https://github.com/Olivr/free-domain) | Free cluster.ws and wip.la subdomains for developers. | ❌ |
-| [eu.org](https://nic.eu.org) | Free eu.org domain. Request is usually approved in 14 days. | ✅ |
 | [getlocalcert.net](https://www.getlocalcert.net) | Free subdomains for private network use. | ✅ |
-| [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. | ❌ |
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. | ✅ |
-| [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Grab your own subdomain (for personal sites, open-source projects, and more) for free. | ❌ |
+| [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
-| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. | ❌ |
+| [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
+| [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
 | [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
+| [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with PSL support, and on `pride.moe`, `pride.ngo` without PSL support. | ℹ️ `pride.moe` and `pride.ngo` are not listed, the rest are however. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
-| [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. | ❌ |
-| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. | ❌ |
-| [thedev.me](https://thedev.me) | Free {name}.thedev.me domain for projects and personal sites. | ❌ |
+| [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
 
 <!-- Email.md -->
 ## Email
@@ -248,6 +254,7 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [10minutemail](https://10minutemail.com) | Free, temporary email for testing. |
+| [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
@@ -312,13 +319,13 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
+| [AWS Educate](https://aws.amazon.com/education/awseducate) | AWS Educate provides students and educators with no-cost access to cloud computing skills training developed by AWS experts, plus career pathways for students. |
 | [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
 | [GitHub Education Pack](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
 | [JetBrains](https://www.jetbrains.com/community/education) | Get free access to all JetBrains IDEs for personal use at school or at home, as long as you're a teacher or a student. |
 | [Microsoft 365](https://www.microsoft.com/education/products/office) | Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools. A valid school email is required. |
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 | [Roadmap.sh](https://roadmap.sh) | Roadmap.sh is a free platform that provides learning roadmaps for technical topics such as Blockchain, UX Design, and Frontend Development. |
-| [Unity](https://unity.com/products/unity-educator) | Unity is free for educators at accredited educational institutions. |
 
 <!-- Forms.md -->
 ## Forms
@@ -433,6 +440,7 @@ A massive list including a huge amount of products and services that are complet
 | [Serverless Cloud](https://www.serverless.com/cloud) | Serverless Cloud lets you build Serverless APIs, package it into a Docker image, rate-limited to 5 calls/second. |
 | [WayScript](https://www.wayscript.com) | WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp) that allows software engineers to self-serve secure, 3 GB persistent volume storage (total), and 160 GB outbound data transfer. |
 | [YepCode](https://yepcode.io) | An all-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, 2 GB SSD persistent storage. |
+| [Zuplo](https://zuplo.com) | Free API Management platform to design, build, and deploy APIs to the edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. |
 
 <!-- Payments_and_Billing.md -->
 ## Payments and Billing
@@ -451,6 +459,7 @@ A massive list including a huge amount of products and services that are complet
 | [FraudLabsPRO](https://www.fraudlabspro.com) | Help merchants prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. |
 | [MailPopin](https://mailpop.in) | Get the most of your Stripe notifications with contextualized information. |
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
+| [ParityVend](https://www.ambeteco.com/ParityVend) | Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month. |
 | [Paymenter](https://paymenter.org) | Free and open-source solution for hostings. Free forever |
 | [Qonversion](https://qonversion.io) | All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
@@ -465,6 +474,6 @@ A massive list including a huge amount of products and services that are complet
 | [InfinityFree](https://dash.infinityfree.com/sslCertificates) | InfinityFree not only provides free hosting but also offers free SSL certificates with fast installation for your InfinityFree account. |
 | [Let's Encrypt](https://letsencrypt.org) | Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
 | [SSL.com](https://ssl.com) | SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options. |
-| [WoSign](https://www.wosign.com) | WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt. |
 | [ZeroSSL](https://zerossl.com) | Provides account driven SSL management and monitoring, certificates are provisioned with a 90 day lifespan on the free tier. |
+
 ⬆️ [**Back to Top**](#table-of-contents)
