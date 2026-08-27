@@ -5,7 +5,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 -->
 
 # 💸 Free For Life
-A massive list including a huge amount of products and services that are completely free!
+A huge list of great stuff you can get for free!
 
 ⭐ [Star on GitHub](https://github.com/wdhdev/free-for-life)
 &bull;
@@ -29,6 +29,7 @@ A massive list including a huge amount of products and services that are complet
 - [Forms](#forms)
 - [Linux Distributions](#linux-distributions)
 - [Messaging & Streaming](#messaging-and-streaming)
+- [Monitoring](#monitoring)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
 - [SSL](#ssl)
@@ -41,7 +42,6 @@ A massive list including a huge amount of products and services that are complet
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
-| [API Mocha](https://apimocha.com) | Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
@@ -66,11 +66,16 @@ A massive list including a huge amount of products and services that are complet
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
+| [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
+| [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
+| [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
+| [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
@@ -80,7 +85,8 @@ A massive list including a huge amount of products and services that are complet
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
-| [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
+| [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
+| [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
 
 <!-- Artificial_Intelligence.md -->
 ## Artificial Intelligence
@@ -88,10 +94,13 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [ChatGPT](https://chatgpt.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
+| [Claude](https://claude.ai) | Claude is an AI assistant developed by Anthropic, known for its helpful, harmless, and honest conversational abilities. Free tier available. |
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
-| [Google Labs - fx](https://labs.google/fx) | fx is a platform with 3 AI models: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words. |
+| [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
+| [Lumo](https://lumo.proton.me) | Lumo is a privacy respecting AI chatbot made by Proton. |
 | [Microsoft Copilot](https://copilot.microsoft.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
+| [Mistral](https://mistral.ai) | Mistral AI offers open-source and commercial AI models including Mistral Large 2 and Mistral Small 3.1. Features multilingual support, code generation, and can run on consumer hardware. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
@@ -144,6 +153,7 @@ A massive list including a huge amount of products and services that are complet
 | [ChronoLink](https://www.chronolink.app) | Flexibly synchronize calendars, create rules for selecting and transforming events. The free plan is restricted to one sync connection. |
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
+| [Proton Calendar](https://proton.me/calendar) | A free and private calendar that prioritizes privacy and end to end encryption. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 
 <!-- Code_Editors.md -->
@@ -154,19 +164,24 @@ A massive list including a huge amount of products and services that are complet
 | [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
 | [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
 | [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [Cursor](https://cursor.com) | Cursor is a specialized AI-powered code editor, built as a fork of Visual Studio Code. |
 | [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free. |
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
+| [Google Antigravity](https://antigravity.google) | An AI-powered, agentic development environment (ADE) designed for autonomous software creation. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
+| [Neovim](https://neovim.io) | Modern, open-source fork of the Vim text editor, designed to maximize extensibility, usability, and performance. |
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [OnlineGDB](https://www.onlinegdb.com) | Online compiler and debugger for C/C++ and other languages. |
 | [Project IDX](https://idx.dev) | An online code editor made by Google for developers which incorporates AI. |
+| [Pulsar](https://pulsar-edit.dev) | Free, open-source, community-driven text editor, forked from GitHub's discontinued Atom editor. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
 | [VSCodium](https://vscodium.com) | Highly configurable and open source code editor with plugins, themes, and more. Runs everywhere. Visual Studio Code built from the source, stripped of Microsoft's telemetry and tracking. |
+| [Zed](https://zed.dev) | High-performance, open-source code editor written in Rust, designed for speed and AI-native collaboration. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -174,11 +189,12 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Blackbox](https://www.blackbox.ai) | AI code generation, chat and search. |
+| [Bolt](https://bolt.new) | AI-powered app builder that generates, tests, and deploys web apps using modern frameworks. Features browser-based IDE with package support and deployment to Netlify. |
 | [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
+| [Lovable](https://lovable.dev) | AI-powered app builder that creates apps and websites by chatting with AI. Features natural language prompts, visual editing, live preview, Supabase integration, and built-in publishing capabilities. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 | [ZZZ Code AI](https://zzzcode.ai) | Welcome to ZZZ Code AI, our coding website powered by AI! |
-
 <!-- Courses.md -->
 ## Courses
 
@@ -191,6 +207,7 @@ A massive list including a huge amount of products and services that are complet
 | [Khan Academy](https://www.khanacademy.org) | Offers free coding classes, especially good for beginners and younger learners. |
 | [MIT OpenCourseWare](https://ocw.mit.edu) | Provides free introductory programming courses from MIT. |
 | [PY4E - Python for Everybody](https://www.py4e.com) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. |
+| [The Odin Project](https://www.theodinproject.com) | The Odin Project provides a free open source coding curriculum that can be taken entirely online. |
 | [W3Schools](https://www.w3schools.com) | Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more. |
 
 <!-- DNS.md -->
@@ -209,6 +226,7 @@ A massive list including a huge amount of products and services that are complet
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
+| [LocalCert](https://localcert.net) | Nameservers | Free `.localcert.net` subdomains for hosting internal applications with HTTPS. |
 | [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Resolver | Mullvad offers free DNS resolvers with DoT (DNS over TLS), DoH (DNS over HTTPS), and optional domain blocklists. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Nameservers | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [NextDNS](https://nextdns.io) | Resolver | Similiar to AdGuard DNS, a DNS resolution service which allows you to specify allow/deny lists |
@@ -221,21 +239,24 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [Amazon DynamoDB](https://aws.amazon.com/dynamodb) | Fast, flexible NoSQL database service for single-digit millisecond performance at any scale. | 
+| [Amazon DynamoDB](https://aws.amazon.com/dynamodb) | Fast, flexible NoSQL database service for single-digit millisecond performance at any scale. |
 | [Apache Cassandra](https://cassandra.apache.org) | Manage massive amounts of data, fast, without losing sleep. |
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
+| [Neon](https://neon.com) | Neon is an open-source serverless Postgres database platform. It separates storage and compute and substitutes the PostgreSQL storage layer by redistributing data across a cluster of nodes. |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB Realm](https://www.mongodb.com/docs/realm) | Realm is a mobile-first database designed for modern, data-driven applications. |
 | [MySQL](https://www.mysql.com) | Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software. |
 | [Oracle Database](https://www.oracle.com/database) | Oracle database services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system. |
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
-| [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. | 
-| [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | 
+| [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
+| [SQLable](https://sqlable.com/) | SQLable is a suite of database tools, including SQL and CSV utilities, test data generation, and sandboxes for SQLite, MySQL, and PostgreSQL. |
+| [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
+| [Turso](https://turso.tech) | Turso is a serverless, edge-deployed SQLite database that gives you low-latency, globally replicated data without managing servers. |
 
 <!-- Design_and_UI.md -->
 ## Design and UI
@@ -243,18 +264,26 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
+| [ArtboardLab](https://artboardlab.com) | Free browser-based design tools including an Adobe Illustrator `.ai` viewer and `.ai` to SVG, PNG and PDF converters, plus image compression and format conversion. Files are processed in the browser and never uploaded, and no account is needed. |
+| [BeginThings](https://beginthings.com) | 96+ free browser-based tools for developers and freelancers — JSON formatter, Base64 encoder, image compressor, QR code generator, regex tester, and more. No login required. |
+| [Calculora](https://calculora.net) | 259+ free calculator tools, no signup required. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
+| [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
+| [Free Image Merger](https://freeimagemerger.com) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
+| [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
+| [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
-| [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
@@ -264,18 +293,19 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description | Listed on the [Public Suffix List](https://github.com/publicsuffix/list)? |
 |:-:|-|:-:|
+| [DigitalPlat](https://domain.digitalplat.org) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. DigitalPlat manages domains (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`) | ✅ `us.kg`, `qzz.io`, `dpdns.org`, `xx.kg` |
 | [is-a.dev](https://is-a.dev) | Grab your own sweet-looking `.is-a.dev` subdomain. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
-| [LocalCert](https://localcert.net) | Free subdomains for private network use. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
-| [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
+| [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
+| [stackryze](https://domain.stackryze.com) | Free subdomains for `indevs.in` & `sryze.cc`. | ✅ `indevs.in` |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
-| [Zone.ID](https://zone.id/) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. | ✅ |
+| [Zone.ID](https://www.zone.id) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. This domain is managed by [PT. Geksa](https://gx1.org), a verified PTp company in Indonesia. It also manages the `nett.to` domain. | ✅ `zone.id`, `nett.to` |
 
 <!-- Email.md -->
 ## Email
@@ -307,8 +337,10 @@ A massive list including a huge amount of products and services that are complet
 | [mailsac](https://mailsac.com) | Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit). |
 | [Mail Tester](https://www.mail-tester.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month. |
 | [Mailtie](https://mailtie.com) | Free Email Forwarding for Your Domain. No registration required. Free Forever. |
-| [Mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
+| [Mailtrap](https://mailtrap.io) | Email API and SMTP for sending transactional and bulk emails. Free plan includes 4,000 emails/month. |
 | [Mail Validator](https://mailvalidator.io) | Verify 300 emails/month for free, real-time API with bulk processing available. |
+| [Mail.gw](https://mail.gw) | Temporary emails valid for 10 days. Option to manually delete (kill) email addresses. |
+| [Mail.tm](https://mail.tm/en) | Unlimited temporary emails with email + password support and option to create custom aliases (alternative email addresses pointing to the same inbox). |
 | [Moosend](https://moosend.com) | Mailing list management service. Free account for 6 months for startups. |
 | [Mutant Mail](https://www.mutantmail.com) | Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs. |
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
@@ -355,6 +387,7 @@ A massive list including a huge amount of products and services that are complet
 | [Microsoft 365](https://www.microsoft.com/education/products/office) | Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools. A valid school email is required. |
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 | [Roadmap.sh](https://roadmap.sh) | Roadmap.sh is a free platform that provides learning roadmaps for technical topics such as Blockchain, UX Design, and Frontend Development. |
+| [TotallyNotQuizlet](https://totallynotquizlet.codeberg.page/study) | TotallyNotQuizlet is a fast, privacy‑friendly study tool with flashcards, learn, match, type, and test learning modes. It's lightweight with no ads, no logins, and no data collection. Study sets are stored locally on-device or shared through Base64 links, making it ideal for both quick studying and classrooms. |
 
 <!-- Forms.md -->
 ## Forms
@@ -400,9 +433,12 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
+| [AnduinOS](https://www.anduinos.com) | AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux. |
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
+| [Drauger OS](https://draugeros.org) | Drauger OS is an Ubuntu-based Linux desktop gaming distribution that ships with many modifications and optimizations |
 | [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
+| [Garuda Linux](https://garudalinux.org) | Simple by default, powerful when needed. Garuda Linux provides opinionated settings that make the Arch Linux base easy to use. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
@@ -432,13 +468,21 @@ A massive list including a huge amount of products and services that are complet
 | [Upstash Kafka](https://upstash.com/kafka) | Serverless Kafka Cloud offering with per-request pricing. It has a free tier with a maximum of 10,000 messages per day. |
 | [webpushr](https://www.webpushr.com) | Web Push Notifications. Free for up to 10k subscribers, unlimited push notifications, and in-browser messaging. |
 
+<!-- Monitoring.md -->
+## Monitoring
+
+| Website | Description |
+|:-:|-|
+| [Muscula](https://muscula.com) | Application monitoring platform for developers to debug production issues using AI agents with natural language. |
+| [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
+| [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
+
 <!-- PaaS.md -->
 ## PaaS
 
 | Website | Description |
 |:-:|-|
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
-| [Braintree](braintreepayments.com) | Boost Revenue with a Global Payments Partner. |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
 | [Deno Deploy](https://deno.com/deploy) | Distributed system that runs JavaScript, native autoscaling, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview. |
@@ -496,6 +540,7 @@ A massive list including a huge amount of products and services that are complet
 | [Qonversion](https://qonversion.io) | All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
+| [Xendit](https://www.xendit.co) | The most complete and secure payment gateway solution, helping your business accept and send payments through 38+ payment methods. |
 
 <!-- SSL.md -->
 ## SSL

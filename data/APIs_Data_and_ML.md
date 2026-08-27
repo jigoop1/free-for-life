@@ -5,7 +5,6 @@
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
-| [API Mocha](https://apimocha.com) | Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
@@ -30,11 +29,16 @@
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
+| [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
+| [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
+| [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
+| [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
@@ -44,4 +48,5 @@
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
-| [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
+| [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
+| [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
